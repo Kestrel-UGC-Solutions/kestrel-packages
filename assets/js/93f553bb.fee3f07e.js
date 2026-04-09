@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[92],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/Kestrel-UGC-Solutions/kestrel-packages/blob/main","baseUrl":"/kestrel-packages/","classOrder":[{"section":"Admin Abuse","classes":["AdminAbuse","State","EventMultipliers","Signals","Ping","Polling","Boot","Cache"]}],"apiCategories":[]}')}}]);
