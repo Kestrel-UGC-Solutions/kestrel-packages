@@ -47,6 +47,8 @@ end
 local ping = {}
 
 --[=[
+	@within Ping
+
 	Reads the stored end-time for the given event key from MemoryStoreService.
 
 	Returns `nil` if the key does not exist or has expired.
@@ -60,6 +62,8 @@ function ping.read(channel: events.GlobalEventKey): number?
 end
 
 --[=[
+	@within Ping
+
 	Writes a new end-time for the given event key to MemoryStoreService and returns it.
 
 	The end-time is calculated as `os.time() + admin_event_duration`. The hash map entry

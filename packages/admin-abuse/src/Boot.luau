@@ -77,6 +77,9 @@ local function onStateChanged(newValue)
 end
 
 --[=[
+	@function init
+	@within Boot
+
 	Starts the Boot module. Begins observing [InternalState].admin_event for changes
 	and reacts by running or cleaning up event Executors.
 
