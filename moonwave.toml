@@ -27,11 +27,6 @@ href = "https://github.com/Kestrel-UGC-Solutions/wally-index"
 label = "Wally Index"
 position = "right"
 
-[[navbar.items]]
-href = "https://github.com/Kestrel-UGC-Solutions"
-label = "GitHub"
-position = "right"
-
 [docusaurus]
 tagline = "Server packages for Roblox by Kestrel UGC Solutions"
 organizationName = "Kestrel-UGC-Solutions"
