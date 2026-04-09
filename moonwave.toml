@@ -10,17 +10,6 @@ classes = ["AdminAbuse", "State", "EventMultipliers", "Signals", "Ping", "Pollin
 enabled = true
 includeReadme = false
 
-[[home.features]]
-title = "Private Wally Registry"
-description = "All packages are distributed through our private Wally registry. Install with a single line in your wally.toml."
-
-[[home.features]]
-title = "Production-Ready"
-description = "Battle-tested modules built for live Roblox experiences. Automatic cleanup, cross-server sync, and fault tolerance out of the box."
-
-[[home.features]]
-title = "Fully Documented"
-description = "Every package comes with complete API reference docs, architecture overviews, and usage guides."
 
 [[navbar.items]]
 href = "https://github.com/Kestrel-UGC-Solutions/wally-index"
@@ -28,7 +17,7 @@ label = "Wally Index"
 position = "right"
 
 [docusaurus]
-tagline = "Server packages for Roblox by Kestrel UGC Solutions"
+tagline = " "
 organizationName = "Kestrel-UGC-Solutions"
 projectName = "kestrel-packages"
 url = "https://Kestrel-UGC-Solutions.github.io"
